@@ -52,10 +52,4 @@ Exploration of reconstruction using Pix2Vox methodology.
 ### 6. Space Carving
 3D shape reconstruction using the Space Carving technique.
 
-## Usage
-
-Each directory under `exps` contains specific instructions and code relevant to the respective reconstruction method.
-
-## License
-This project is licensed under the MIT License.
 
